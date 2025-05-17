@@ -1,0 +1,11 @@
+{
+  "name": "VULNERABLE-INTERNAL-PACKAGE",
+  "version": "99.0.1",
+  "description": "poc",
+  "main": "index.js",
+  "scripts": {
+    "install": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
